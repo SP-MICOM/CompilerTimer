@@ -1,7 +1,7 @@
 {
   "name": "com.test.compile-timer",
   "displayName": "Compile Timer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "unity": "2021.3",
   "description": "Check Compile Time.",
   "keywords": [
